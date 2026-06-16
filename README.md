@@ -154,7 +154,7 @@ MDE = +10%
 
 PDF-презентація з повним планом A/B тесту:
 
-Переглянути презентацію
+[Переглянути презентацію](https://github.com/KaterinaKozii/ab-test-weekly-subscription-conversion/blob/main/ab_test_weekly_subscription_plan.pdf)
 
 **Інструменти та навички**
 
